@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shuklanupurr
+- 👋 Hi, I’m @Nupur Shukla 
 - 👀 I’m interested in Business Analysis
 - 🌱 I’m currently learning Python, SQL, Power BI
 - 💞️ I’m looking to collaborate on Business analysis projects, discussion and on Logistics/transportation operations and KPIs
